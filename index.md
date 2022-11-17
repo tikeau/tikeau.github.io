@@ -20,5 +20,5 @@ En ce moment, je suis à la recherche d'un nouveau challenge professionnel qui m
 
 ## Références
 
-- Site vitrine d'un site d'un guide de spectacles, [https://www.emotium.fr](emotium.fr).
+- Site vitrine d'un site d'un guide de spectacles, [emotium.fr](https://www.emotium.fr).
 - Applications mobile en NuxtJS - capacitor
