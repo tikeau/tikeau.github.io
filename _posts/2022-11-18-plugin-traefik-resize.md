@@ -10,5 +10,4 @@ Traefik a un systeme de plugins et une utilisation utile est de faire de l'optim
 Pour cela, le plugin observe un pattern d'urls et si ca correspond prend la main pour passer la requete
 a un service [imaginary](https://github.com/h2non/imaginary) qui va retailler l'image.
 
-Le plugin en question:
-https://github.com/agravelot/traefik-image-optimization
+Le plugin en question: [agravelot/traefik-image-optimization](https://github.com/agravelot/traefik-image-optimization)
