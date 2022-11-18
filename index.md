@@ -1,7 +1,5 @@
-## tikeau
 
-
-Developpeur web, golang c#, nuxtjs
+### Developpeur web, golang c#, nuxtjs
 
 Je suis un développeur web full-stack. Je suis passionné par le développement web et je suis spécialisé dans les langages de programmation Golang et C#. J'ai également une bonne expérience avec le framework Nuxt.js.
 
