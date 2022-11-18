@@ -1,6 +1,3 @@
-
-### Developpeur web, golang c#, nuxtjs
-
 Je suis un développeur web full-stack. Je suis passionné par le développement web et je suis spécialisé dans les langages de programmation Golang et C#. J'ai également une bonne expérience avec le framework Nuxt.js.
 
 J'ai commencé ma carrière en tant que développeur web il y a 4 ans. J'ai d'abord travaillé comme développeur front-end, puis j'ai ensuite évolué vers le back-end. J'ai eu l'occasion de travailler sur de nombreux projets, notamment des sites e-commerce, des applications web et des sites vitrines.
